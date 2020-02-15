@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="major">
+
+        <item>컴퓨터공학</item>
+        <item>정보통신공학</item>
+        <item>기계공학</item>
+        <item>화학공학과</item>
+        <item>건축학과</item>
+        <item>생명과학과</item>
+
+    </string-array>
+    
+    <string-array name="year">
+        <item>2016년도</item>
+        <item>2017년도</item>
+        <item>2018년도</item>
+        <item>2019년도</item>
+        <item>2020년도</item>
+    </string-array>
+
+    <string-array name="term">
+        <item>1학기</item>
+        <item>여름학기</item>
+        <item>2학기</item>
+        <item>겨울학기</item>
+
+
+        </string-array>
+    
+    <string-array name="graduateArea">
+        <item>일반대학원</item>
+    </string-array>
+    
+    <string-array name="universityArea">
+        <item>교양및기타</item>
+        <item>전공</item>
+    </string-array>
+    
+    <string-array name="graduateMajor">
+        <item>교육학과</item>
+        <item>교육행정</item>
+        <item>교육학공통</item>
+        <item>교육철학및교육사</item>
+        <item>교육심리</item>
+        <item>교육사회</item>
+        <item>교육공학</item>
+        <item>상담심리</item>
+        <item>특수교육</item>
+        <item>초등교육</item>
+        <item>유아교육</item>
+        <item>국어교육학과</item>
+        <item>초등국어교육</item>
+        <item>국어교육</item>
+        <item>한문교육</item>
+        <item>한국어교육</item>
+        <item>영어교육학과</item>
+        <item>영어교육</item>
+        <item>초등영어교육</item>
+        <item>불어교육</item>
+        <item>중국어교육</item>
+        <item>윤리교육학과</item>
+        <item>초등도덕교육</item>
+        <item>윤리교육</item>
+        <item>철학교육</item>
+        <item>사회교육과</item>
+        <item>일반사회교육</item>
+        <item>지리교육</item>
+        <item>역사교육</item>
+        <item>공통사회교육</item>
+        <item>초등사회과교육</item>
+        <item>수학교육학과</item>
+        <item>초등수학교육</item>
+        <item>수학교육</item>
+        <item>과학교육학과</item>
+        <item>초등과학교육</item>
+        <item>물리교육</item>
+        <item>화학교육</item>
+        <item>생물교육</item>
+        <item>지구과학교육</item>
+        <item>컴퓨터교육학과</item>
+        <item>초등컴퓨터교육</item>
+        <item>컴퓨터교육</item>
+        <item>기술교육학과</item>
+        <item>초등실과교육</item>
+        <item>기술교육</item>
+        <item>환경교육</item>
+        <item>공통과학교육</item>
+        <item>공업교육</item>
+        <item>음악교육학과</item>
+        <item>초등음악교육</item>
+        <item>음악교육</item>
+        <item>미술교육학과</item>
+        <item>초등미술교육</item>
+        <item>미술교육</item>
+        <item>체육교육학과</item>
+        <item>초등체육교육</item>
+        <item>체육교육</item>
+        <item>수학영재교육</item>
+        <item>과학영재교육</item>
+        <item>정보영재교육</item>
+        <item>뇌기반교육</item>
+        <item>인구다문화교육</item>
+        <item>문화예술교육</item>
+        <item>교육과정및교육평가</item>
+        <item>융합교육</item>
+        <item>진로교육</item>
+    </string-array>
+    
+    <string-array name="universityRefinementMajor">
+        <item>군사학</item>
+        <item>교직이론</item>
+        <item>교직소양</item>
+        <item>청람비전</item>
+        <item>청람중점(리더쉽)</item>
+        <item>청람중점(인성)</item>
+        <item>청랑중점(역사와문화)</item>
+        <item>청람일반(스포츠와예술)</item>
+        <item>청람일반(과학과기술)</item>
+        <item>청람일반(교육기반이해)</item>
+
+    </string-array>
+    
+    <string-array name="universityMajor">
+        <item>유아교육과</item>
+        <item>초등교육과</item>
+        <item>영어교육과</item>
+        <item>수학교육과</item>
+        <item>물리교육과</item>
+        <item>화학교육과</item>
+        <item>생물교육과</item>
+        <item>지구과학교육과</item>
+        <item>가정교육과</item>
+        <item>기술교육과</item>
+        <item>컴퓨터교육과</item>
+        <item>독어교육과</item>
+        <item>불어교육과</item>
+        <item>중국어교육과</item>
+        <item>일반사회교육과</item>
+        <item>공통사회교육과</item>
+        <item>공통과학교육전공</item>
+        <item>음악교육과</item>
+        <item>미술교육과</item>
+        <item>체육교육과</item>
+        <item>환경교육과</item>
+        <item>지리교육과</item>
+        <item>역사교육과</item>
+        <item>교육학과</item>
+    </string-array>
+
+    <string-array name="rank">
+        <item>전체에서</item>
+        <item>우리과에서</item>
+        <item>남자선호도</item>
+        <item>여자선호도</item>
+        <item>전공 인기도</item>
+        <item>교양 인기도</item>
+    </string-array>
+</resources>
