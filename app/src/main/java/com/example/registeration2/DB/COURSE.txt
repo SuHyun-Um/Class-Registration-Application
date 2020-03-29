@@ -1,0 +1,17 @@
+CREATE TABLE COURSE (
+courserID INT NOT NUll AUTO INCREMENT,
+courseUniversity varchar(50),	
+courseYear INT,
+courseTerm varchar(50),
+courseArea varchar(50),
+courseMajor varchar(50),
+courseGrade varchar(50),
+courseTitle varchar(100),
+courseCredit INT,
+courseDivide INT,
+coursePersonnel INT,
+courseProfessor varchar(50),
+courseTime varchar(100),
+courseRoom varchar(100),
+CONSTRAINT PRIMARY KEYcourseID)
+);

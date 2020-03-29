@@ -1,0 +1,9 @@
+CREATE TABLE NOTICE (
+
+   noticeContent VARCHAR(1000) NOT NULL,
+
+   noticeName VARCHAR(50) NOT NULL,
+
+   noticeDate DATE NOT NULL
+
+);

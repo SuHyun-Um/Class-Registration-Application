@@ -45,7 +45,7 @@
     <TextView
         android:drawableStart="@drawable/ic_security_black_24dp"
         android:drawableLeft="@drawable/ic_security_black_24dp"
-        android:text=" App 개발자: 엄수현 최수빈 "
+        android:text=" App 개발자: 엄수현 "
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="15dp"
@@ -164,65 +164,6 @@
 
                 </LinearLayout>
 
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_marginTop="20dp"
-                    android:layout_marginRight="20dp"
-                    android:layout_marginLeft="20dp"
-                    android:layout_marginBottom="15dp"
-                    android:orientation="horizontal">
-
-                    <com.example.registeration2.CircleImageView
-                        android:src="@drawable/subin"
-                        android:id="@+id/ImageView"
-                        android:layout_width="80dp"
-                        android:layout_height="80dp"
-                        app:civ_border_color="@color/colorPrimary"
-                        app:civ_border_width="2dp"
-                        tools:ignore="DuplicateIds" />
-                    <LinearLayout
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:layout_marginLeft="10dp"
-                        android:orientation="vertical"
-                        >
-                        <TextView
-                            android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
-                            android:text="최수빈"
-                            android:textStyle="bold"
-                            android:textColor="@color/colorPrimary"
-                            android:textSize="17dp"
-                            />
-
-                        <TextView
-                            android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
-                            android:text="우석대학교"
-                            android:textColor="#000000"
-                            android:textSize="15dp"
-                            />
-
-                        <TextView
-                            android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
-                            android:text="컴퓨터공학과 16학번"
-                            android:textColor="#000000"
-                            android:textSize="15dp"
-                            />
-
-                        <TextView
-                            android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
-                            android:text="choisb7366@naver.com"
-                            android:textColor="#000000"
-                            android:textSize="15dp"
-                            />
-
-                    </LinearLayout>
-
-                </LinearLayout>
 
 
             </LinearLayout>

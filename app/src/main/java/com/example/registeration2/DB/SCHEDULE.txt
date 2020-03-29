@@ -1,0 +1,4 @@
+CREATE TABLE SCHEDULE (
+userID varchar(50),
+courseID INT
+);

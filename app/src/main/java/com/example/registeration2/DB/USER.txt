@@ -1,0 +1,28 @@
+CREATE TABLE USER(
+ 
+
+userID VARCHAR(50) NOT NULL,
+
+
+
+userPassword VARCHAR(50) NOT NULL,
+
+
+
+userGender VARCHAR(50) NOT NULL,
+
+
+
+userMajor VARCHAR(50) NOT NULL,
+
+
+
+userEmail VARCHAR(50) NOT NULL,
+
+
+
+CONSTRAINT PRIMARY KEY(userID)
+
+
+
+);
